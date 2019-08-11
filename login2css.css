@@ -20,6 +20,7 @@ h1
     width:500px;
     height:30px;
     border:none;
+    border-bottom:2px solid orange;
     border-radius:4px;
     background-color:#FDF2E9
 }
@@ -36,8 +37,5 @@ h1
 }
 .fa{
     color:orange;
-}
-user input[type='text']{
-    border:none;
 }
 
