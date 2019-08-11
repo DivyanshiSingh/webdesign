@@ -1,0 +1,43 @@
+.out{
+    padding:30px;
+    margin:300px;
+    border:1px solid grey;
+    border-radius: 5px;
+    box-shadow: 0 0 6px;
+    width:500px;
+    height:300px;
+    display:grid;
+    grid-gap:20px; 
+    background-color:#FAE5D3;
+    text-align: center;
+}
+h1
+{
+    color:orange;
+    text-align: center;
+}
+.user1,.pass1{
+    width:500px;
+    height:30px;
+    border:none;
+    border-radius:4px;
+    background-color:#FDF2E9
+}
+.submit1{
+    width:500px;
+    height:30px;
+    border:1px solid grey;
+    border-radius:4px;
+    margin:0 auto;
+    background-color:#EDBB99  
+}
+.submit1:hover{
+    opacity:0.3;
+}
+.fa{
+    color:orange;
+}
+user input[type='text']{
+    border:none;
+}
+
